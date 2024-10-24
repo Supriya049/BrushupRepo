@@ -3,6 +3,7 @@ public class Substraction {
         int a = 25;
         int b=65;
         int c= b-a;
+
         System.out.println(c);
 
 
